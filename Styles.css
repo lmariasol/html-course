@@ -1,0 +1,58 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap");
+
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    font-size: 18px;
+    opacity: 100%;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.box {
+    margin-bottom: -25px; /* Adjust the value as needed */
+}
+
+.background-container-intro{
+    background-image: url('C:/Site project/pexels-henry-&-co-11800919.jpg');
+    background-size: cover; /* Makes the image cover the entire container */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    background-position: center center;
+}
+
+.background-container-one{
+    background-image: url('C:/Site project/pexels-henry-&-co-12957596.jpg');
+    background-size: cover; /* Makes the image cover the entire container */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    background-position: center center;
+}
+
+.background-container-two{
+    background-image: url('C:/Site project/pexels-henry-&-co-8678894.jpg');
+    background-size: cover; /* Makes the image cover the entire container */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    background-position: center center;
+}
+
+.contact-background-container{
+    background-image: url('C:/Site project/pexels-jess-bailey-designs-1097930.jpg');
+    height: 100%;
+    background-size: cover; /* Makes the image cover the entire container */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    background-position: center center;
+}
+
+.education-background-container{
+    background-image: url("C:/Site project/pexels-henry-&-co-8678894.jpg");
+    height: 100%;
+    background-size: cover; /* Makes the image cover the entire container */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    background-position: center center;
+}
