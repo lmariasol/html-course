@@ -23,28 +23,28 @@ body, html{
 }
 
 .background-container-intro{
-    background-image: url('C:/Site project/pexels-henry-&-co-11800919.jpg');
+    background-image: url('pexels-henry-&-co-11800919.jpg');
     background-size: cover; /* Makes the image cover the entire container */
     background-repeat: no-repeat; /* Prevents image repetition */
     background-position: center center;
 }
 
 .background-container-one{
-    background-image: url('C:/Site project/pexels-henry-&-co-12957596.jpg');
+    background-image: url('pexels-henry-&-co-12957596.jpg');
     background-size: cover; /* Makes the image cover the entire container */
     background-repeat: no-repeat; /* Prevents image repetition */
     background-position: center center;
 }
 
 .background-container-two{
-    background-image: url('C:/Site project/pexels-henry-&-co-8678894.jpg');
+    background-image: url('pexels-henry-&-co-8678894.jpg');
     background-size: cover; /* Makes the image cover the entire container */
     background-repeat: no-repeat; /* Prevents image repetition */
     background-position: center center;
 }
 
 .contact-background-container{
-    background-image: url('C:/Site project/pexels-jess-bailey-designs-1097930.jpg');
+    background-image: url('pexels-jess-bailey-designs-1097930.jpg');
     height: 100%;
     background-size: cover; /* Makes the image cover the entire container */
     background-repeat: no-repeat; /* Prevents image repetition */
@@ -52,7 +52,7 @@ body, html{
 }
 
 .education-background-container{
-    background-image: url("C:/Site project/pexels-henry-&-co-8678894.jpg");
+    background-image: url('pexels-henry-&-co-8678894.jpg');
     height: 100%;
     background-size: cover; /* Makes the image cover the entire container */
     background-repeat: no-repeat; /* Prevents image repetition */
